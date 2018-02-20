@@ -3,7 +3,7 @@ package com.company.Game;
 import java.util.Scanner;
 
 /**
- * Created by Stefan on 19-11-2015.
+ * Created by Chloe Parbst on 19-11-2015.
  */
 public class ConsoleGame
 {
